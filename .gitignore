@@ -1,0 +1,8 @@
+# terraform config
+*terraform*
+
+# ec2 key file
+*.pem
+
+!.terraform.lock.hcl
+!terraform.tf
