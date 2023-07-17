@@ -1,6 +1,5 @@
 # TERRAFORM EC2 NGINX SERVER
 
---------------------------
 
 To get the server up & running, run the following commands:
 
